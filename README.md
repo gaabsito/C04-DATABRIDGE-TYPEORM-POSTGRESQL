@@ -23,3 +23,7 @@ Creación con POST, Body, DTO, create/save y precio medio persistente. Consulta 
 ## Ejercicio 05 · Travel Book
 
 Actualización parcial con PATCH, merge/save y fecha opcional. Consulta [las instrucciones](EJERCICIO-05/README.md).
+
+## Ejercicio 06 · My Library
+
+Borrado confirmado con DELETE, marcado como leído con PATCH y sincronización de la lista. Consulta [las instrucciones](EJERCICIO-06/README.md).
