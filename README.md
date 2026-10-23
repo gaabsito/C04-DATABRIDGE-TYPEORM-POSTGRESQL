@@ -15,3 +15,7 @@ Colección de películas con `repository.find()` y el campo persistente `favorit
 ## Ejercicio 03 · Pet Profile
 
 Consulta individual con Path Param, `findOneBy()` y nivel de energía persistente. Consulta [las instrucciones](EJERCICIO-03/README.md).
+
+## Ejercicio 04 · Food Spots
+
+Creación con POST, Body, DTO, create/save y precio medio persistente. Consulta [las instrucciones](EJERCICIO-04/README.md).
