@@ -1,5 +1,7 @@
 # C04 · DataBridge · TypeORM y PostgreSQL
 
+Colección de diez ejercicios. Empieza por [la guía del proyecto](GUIA-DEL-PROYECTO.md) para entender las partes y arrancar una app.
+
 Ejercicios de React Native con Expo, NestJS, TypeORM y PostgreSQL.
 
 ## Ejercicio 01 · Game Vault
@@ -39,3 +41,7 @@ Relación OneToMany/ManyToOne, consulta con relaciones y alta de canciones en un
 ## Ejercicio 09 · Event Radar
 
 Consulta con Query Params opcionales y filtros combinados de ciudad y categoría. Consulta [las instrucciones](EJERCICIO-09/README.md).
+
+## Ejercicio 10 · Wander
+
+CRUD final de destinos con prioridad persistente y orden de planificación. Consulta [las instrucciones](EJERCICIO-10/README.md).
