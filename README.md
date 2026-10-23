@@ -31,3 +31,7 @@ Borrado confirmado con DELETE, marcado como leído con PATCH y sincronización d
 ## Ejercicio 07 · Sneaker Vault
 
 CRUD completo, stock persistente y etiqueta AGOTADO derivada del stock cero. Consulta [las instrucciones](EJERCICIO-07/README.md).
+
+## Ejercicio 08 · My Playlists
+
+Relación OneToMany/ManyToOne, consulta con relaciones y alta de canciones en una playlist existente. Consulta [las instrucciones](EJERCICIO-08/README.md).
