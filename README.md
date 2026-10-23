@@ -19,3 +19,7 @@ Consulta individual con Path Param, `findOneBy()` y nivel de energía persistent
 ## Ejercicio 04 · Food Spots
 
 Creación con POST, Body, DTO, create/save y precio medio persistente. Consulta [las instrucciones](EJERCICIO-04/README.md).
+
+## Ejercicio 05 · Travel Book
+
+Actualización parcial con PATCH, merge/save y fecha opcional. Consulta [las instrucciones](EJERCICIO-05/README.md).
