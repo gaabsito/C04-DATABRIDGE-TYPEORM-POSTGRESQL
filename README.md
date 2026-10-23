@@ -27,3 +27,7 @@ Actualización parcial con PATCH, merge/save y fecha opcional. Consulta [las ins
 ## Ejercicio 06 · My Library
 
 Borrado confirmado con DELETE, marcado como leído con PATCH y sincronización de la lista. Consulta [las instrucciones](EJERCICIO-06/README.md).
+
+## Ejercicio 07 · Sneaker Vault
+
+CRUD completo, stock persistente y etiqueta AGOTADO derivada del stock cero. Consulta [las instrucciones](EJERCICIO-07/README.md).
