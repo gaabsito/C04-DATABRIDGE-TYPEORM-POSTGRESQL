@@ -11,3 +11,7 @@ Consulta [las instrucciones del ejercicio](EJERCICIO-01/README.md) y [las compro
 ## Ejercicio 02 · CineBox
 
 Colección de películas con `repository.find()` y el campo persistente `favorita`, representado con ♥ / ♡. Consulta [las instrucciones](EJERCICIO-02/README.md).
+
+## Ejercicio 03 · Pet Profile
+
+Consulta individual con Path Param, `findOneBy()` y nivel de energía persistente. Consulta [las instrucciones](EJERCICIO-03/README.md).
