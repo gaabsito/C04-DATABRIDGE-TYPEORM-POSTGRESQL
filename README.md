@@ -35,3 +35,7 @@ CRUD completo, stock persistente y etiqueta AGOTADO derivada del stock cero. Con
 ## Ejercicio 08 · My Playlists
 
 Relación OneToMany/ManyToOne, consulta con relaciones y alta de canciones en una playlist existente. Consulta [las instrucciones](EJERCICIO-08/README.md).
+
+## Ejercicio 09 · Event Radar
+
+Consulta con Query Params opcionales y filtros combinados de ciudad y categoría. Consulta [las instrucciones](EJERCICIO-09/README.md).
